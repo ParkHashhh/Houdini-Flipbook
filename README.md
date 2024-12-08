@@ -15,7 +15,7 @@ This project provides an automated workflow using Houdini's Flipbook feature. Th
 4. **Preview Video**: Open the MOV file directly from the output directory in the file explorer.  
 
 ## Prerequisites  
-- Houdini (version X.X or higher).  
+- Houdini.  
 - FFmpeg installed and added to the system PATH.  
 
 ## Getting Started  
